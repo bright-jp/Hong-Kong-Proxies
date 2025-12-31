@@ -1,6 +1,6 @@
 # Bright Dataの香港プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/hk) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/hk) 
 
 ## 概要
 Bright Dataの[香港プロキシ](https://brightdata.jp/locations/hk)で、シームレスなスクレイピングをご体験ください。精密なターゲティング、比類のない安定性、高速なレスポンスタイムを実現するよう設計されています。香港からWebサイトのスクレイピングを開始し、もうブロックされないようにしましょう。
@@ -39,7 +39,7 @@ Bright Dataの[香港プロキシ](https://brightdata.jp/locations/hk)で、シ�
 - **3G/4G/5G モバイルIP**
 - **24/7 グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/hk) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/hk) 
 
 ## Bright Dataの香港プロキシの始め方
 1. **無料トライアルを開始**: クレジットカードは不要です。
